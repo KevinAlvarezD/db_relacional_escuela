@@ -19,7 +19,9 @@ Este repositorio contiene el diagrama de relaciones de una base de datos para un
 
 ## Link directo a Clever-Cloud
 https://www.clever-cloud.com/
+
 ## Link video (Diagrama relacional)
+https://drive.google.com/file/d/1tQ8_uOHGJ4zS9digtOwjRTV0JeYsLhnp/view?usp=drive_link
 
 
 
