@@ -24,7 +24,7 @@ https://www.clever-cloud.com/
 
 
 ## Link video (Modelo de Datos)
-
+https://drive.google.com/file/d/1Nx9Rer-112x-nrEOoCUGC1OONl5Y9EPE/view?usp=drive_link
 
 
 ### Acceso a la base de datos 
