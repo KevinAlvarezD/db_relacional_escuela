@@ -18,15 +18,15 @@ Este repositorio contiene el diagrama de relaciones de una base de datos para un
 - https://lucid.app/lucidchart/5beefc6c-83c2-4235-9000-38c246ee5916/edit?viewport_loc=-1908%2C-516%2C3328%2C1602%2C0_0&invitationId=inv_4552e9b2-8f67-4a3c-a0af-daba53f64d96
 
 ## Link directo a Clever-Cloud
-https://www.clever-cloud.com/
+- https://www.clever-cloud.com/
 
 ## Link video (Diagrama relacional)
-https://drive.google.com/file/d/1tQ8_uOHGJ4zS9digtOwjRTV0JeYsLhnp/view?usp=drive_link
+- https://drive.google.com/file/d/1tQ8_uOHGJ4zS9digtOwjRTV0JeYsLhnp/view?usp=drive_link
 
 
 
 ## Link video (Modelo de Datos)
-https://drive.google.com/file/d/1Nx9Rer-112x-nrEOoCUGC1OONl5Y9EPE/view?usp=drive_link
+- https://drive.google.com/file/d/1Nx9Rer-112x-nrEOoCUGC1OONl5Y9EPE/view?usp=drive_link
 
 
 ### Acceso a la base de datos 
