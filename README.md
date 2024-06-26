@@ -5,6 +5,8 @@
 Este repositorio contiene el diagrama de relaciones de una base de datos para una escuela. El diagrama fue creado utilizando las siguientes herramientas:
 
 - [MySQL Workbench](#enlace-mysql-workbench)
+- [Mongo Atlas](#enlace-mongodb-atlas)
+- [MongoDB Compass](#enlace-mongodb-compass)
 - [Lucidchart](#enlace-lucidchart)
 - [Clever Cloud](#enlace-clever-cloud)
 
@@ -19,6 +21,10 @@ Este repositorio contiene el diagrama de relaciones de una base de datos para un
 
 ## Link directo a Clever-Cloud
 - https://www.clever-cloud.com/
+
+## Link video (Migracion de SQL a NoSQL (MongoDB atlas))
+
+
 
 ## Link video (Diagrama relacional)
 - https://drive.google.com/file/d/1tQ8_uOHGJ4zS9digtOwjRTV0JeYsLhnp/view?usp=drive_link
