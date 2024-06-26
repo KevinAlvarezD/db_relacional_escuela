@@ -1,0 +1,13 @@
+*Scripts de la creacion de la data base directamente con mongo Compass*
+
+//creacion de las colecciones 
+estudiantes, profesores, directivos, cursos, salones, jornadas, horarios, materias.
+db.estudiantes.insertOne({nombre:"kevin",apellido:"alvarez"})
+db.profesores.insertOne({nombre:"ivan",apellido:"mesa"})
+db.directivos.insertOne({consejero_academico:"ivan mesa",consejero_estudiantil:"kevin alvarez",rector:"douglas costa"})
+db.cursos.insertOne({nombre:"11ªA",director_curso:"ivan mesa"})
+db.salones.insertOne({nombre:"33"})
+db.jornadas.insertOne({nombre:"diurna"})
+db.horarios.insertOne({salon:"kevin",jornada:"diurna",materia:"ingles",bloque:"6:00am/8:00am",curso:"11ªA"})
+
+//cada coleccion se relleno con la informacion correspondiente, los documentos tienen cada uno tres datos
