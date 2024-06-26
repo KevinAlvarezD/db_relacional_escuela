@@ -1,6 +1,6 @@
 *Scripts de la creacion de la data base directamente con mongo Compass*
 
-//creacion de las colecciones 
+//creacion de las colecciones manualmente
 estudiantes, profesores, directivos, cursos, salones, jornadas, horarios, materias.
 db.estudiantes.insertOne({nombre:"kevin",apellido:"alvarez"})
 db.profesores.insertOne({nombre:"ivan",apellido:"mesa"})
